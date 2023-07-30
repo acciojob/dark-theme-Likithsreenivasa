@@ -3,7 +3,7 @@
 }
 .night{
   background-color: black;
-  color:white;
+  color:rgb(28,160,160);
 }
 
 #swap{
@@ -13,4 +13,19 @@
 .button_night{
   background-color:blue;
   color:white; 
+}
+.day{
+	color:rgb(104,241,241);
+}
+.button_day{
+	color:black;
+	background-color:rgb(224,224,224);
+	border-style:none;
+}
+p{
+	text-align:center;	
+}
+button{
+	display:block;
+	margin:0 auto;
 }
